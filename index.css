@@ -1,0 +1,14 @@
+img {
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+}
+body {
+	background-image: url(happy.jpg);
+	background-size: 400px ;
+}
+h1{color: white;text-align: center;font-family:monospace;}
+h3{color: crimson}
+h4{color: crimson}
+p {word-spacing: 5px;font-family: monospace;}
+h4 {font-family: monospace;}
